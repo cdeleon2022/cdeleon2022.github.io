@@ -211,12 +211,6 @@ button {
 
 
 
-
-
-
-
-
-
 /* BEGIN ABOUT SECTION */
 
 .about {
@@ -246,7 +240,7 @@ button {
 }
 
 .profile-picture {
-	width: 35%;
+	width: 25%;
 	margin: 0;
 	padding: 0;
 
